@@ -1,7 +1,7 @@
 ### Olá! 👋
 Me chamo Rafael Roseno, sou um entusiasta por tecnologia e desenvolvedor de software apaixonado.  
 Atualmente, atuo como Engenheiro de Software, com mais de 4 anos de experiência no desenvolvimento de microserviços em Java e Kotlin.  
-Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades, sempre em busca de desafios e oportunidades. :D
+Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades. :D
 
 
 <h3 align="left">Redes:</h3>
@@ -26,6 +26,8 @@ LOGOS:
 https://devicon.dev/
 
 https://simpleicons.org/
+
+https://github.com/Ileriayo/markdown-badges
 
 
 **RafaelRoseno/RafaelRoseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
